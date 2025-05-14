@@ -1,6 +1,6 @@
 # Tic-Tac-Toe Game 🎮
 
-Welcome to **Tic-Tac-Toe**! A classic two-player game where you take turns marking spaces on a 3x3 grid with either an "X" or "O." The first player to get three of their marks in a row wins!
+Welcome to **Tic-Tac-Toe** 🔥! A classic two-player game where you take turns marking spaces on a 3x3 grid with either an "X" or "O." The first player to get three of their marks in a row wins!
 
 This Android app features a smooth and interactive user interface with modern navigation and game logic written in **Java**. Enjoy the game and challenge your friends!
 
